@@ -1,6 +1,2 @@
 # começar
- <style>
-    <p> {
-        color: purple;
-    }
-</style>
+<span style="color: red;">Este texto é vermelho</span>
